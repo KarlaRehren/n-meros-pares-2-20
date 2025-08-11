@@ -1,10 +1,9 @@
 # n-meros-pares-2-20
-Imprime en consola todos los números pares entre el 2 y el 20.
+//Imprime en consola todos los números pares entre el 2 y el 20.
 
 🧠 Ejercicio: Números pares entre 2 y 20
 
 🔁 Reglas
-Muestra: Subiendo al piso X para cada piso del 1 al 20.
 Si el número es par: ¡Éste número es par! 
 
 ▶️ Ejecutar
